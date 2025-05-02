@@ -15,4 +15,5 @@ assignees: QedMaen
 _ h
 
 ### Expected outcome
-Pieces of documentation or instances of communication that conclude this task and contain the findings.
+1. Pieces of documentation or instances of communication that conclude this task and contain the findings
+2. _
