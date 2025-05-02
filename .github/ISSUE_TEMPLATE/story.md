@@ -13,10 +13,12 @@ assignees: QedMaen
 **So that** _value_
 
 ### Context
-Additional information necessary for understanding this task.
+Information necessary for understanding this task.
 
 ### Acceptance criteria
 1. Expected behaviour after the Story is delivered
 2. _
 
 ### Notes
+* Complexity: _ sp
+* Any additional comments for execution belongs here
