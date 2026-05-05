@@ -9,7 +9,7 @@ lerna-debug.log*
 
 # Github repo management
 .github/*
-LICENSE
+.LICENSE
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -140,5 +140,5 @@ dist
 .pnp.*
 
 # Sandbox folder
-sandbox
-sandbox/*
+.sandbox
+.sandbox/*
