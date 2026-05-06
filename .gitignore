@@ -142,3 +142,7 @@ dist
 # Sandbox folder
 .sandbox
 .sandbox/*
+
+# Project-specific Continue extension artifacts
+.continue
+.continue/*
